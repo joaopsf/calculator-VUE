@@ -18,7 +18,7 @@
 </script>
 
 <style lang="scss" scoped>
-@import '../assets/scss/variables.scss';
+    @import '../assets/scss/variables.scss';
     .button {
         font-size: 1.4em;
         font-weight: bold;

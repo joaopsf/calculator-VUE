@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Calculadora</h1>
+    <h1>Simple Calculator</h1>
     <Calculator />
   </div>
 </template>
@@ -21,11 +21,9 @@ export default {
   * {
     font-family: 'RobotoMono', monospace;
   }
-
   body {
     margin: 0;
   }
-
   #app {
     display: flex;
     flex-direction: column;
